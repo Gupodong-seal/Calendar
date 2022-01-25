@@ -3,7 +3,7 @@ package calendar;
 public class calendar {
 	public static void main(String[] args) {
 
-		System.out.print(" ÀÏ ¿ù È­ ¼ö ¸ñ ±İ Åä\n");
+		System.out.print("ì¼  ì›”  í™”  ìˆ˜ ëª©  ê¸ˆ í† \n");
 		System.out.print("--------------------\n");
 		System.out.print(" 1  2  3  4  5  6  7\n");
 		System.out.print(" 8  9 10 11 12 13 14\n");
