@@ -3,7 +3,7 @@ package calendar;
 public class calendar {
 	public static void main(String[] args) {
 
-		System.out.print(" 일 월  화  수 목  금 토\n");
+		System.out.print(" 일 월 화 수 목 금 토\n");
 		System.out.print("--------------------\n");
 		System.out.print(" 1  2  3  4  5  6  7\n");
 		System.out.print(" 8  9 10 11 12 13 14\n");
