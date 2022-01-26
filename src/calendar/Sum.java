@@ -22,7 +22,7 @@ public class Sum {
         int number2 = scanner.nextInt();
         int sum = number1 + number2;
 		System.out.println("두 수의 합은 "+sum+"입니다." );
-		
+		scanner.close();
 	}
 }
 
